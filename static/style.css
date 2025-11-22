@@ -1,7 +1,7 @@
 body {
 	font-family: "Times New Roman", Times, serif;
-	/*background-image: url("/stars.gif");*/
-	background: #171717 ; 
+	background-image: url("/stars.gif");
+	/*background: #171717 ; */
 	color: #ccc ;
 }
 
@@ -19,7 +19,7 @@ img {
 }
 
 header h1 {
-	color: orange ;
+	color: #EC6D00 ;
 	text-align: center ;
 	text-decoration: underline overline;
 }
