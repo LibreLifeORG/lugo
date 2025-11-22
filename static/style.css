@@ -1,6 +1,7 @@
 body {
-	font-family: sans-serif ;
-	background: #110000 ;
+	font-family: "Times New Roman", Times, serif;
+	/*background-image: url("/stars.gif");*/
+	background: #171717 ; 
 	color: #ccc ;
 }
 
@@ -9,12 +10,18 @@ main {
 	margin: auto ;
 }
 
+a {
+	color: #f78422 ;
+}
+
 img {
 	max-width: 100% ;
 }
 
 header h1 {
+	color: orange ;
 	text-align: center ;
+	text-decoration: underline overline;
 }
 
 footer {
