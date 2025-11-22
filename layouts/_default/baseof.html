@@ -18,12 +18,14 @@
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
 <header><h1 id="tag_{{ .Title }}">{{ block "title" . }}{{ end }}</h1></header>
+<div class="textBlock">
 <article>
 {{ block "main" . }}
 {{ .Content }}
 {{ end }}
 {{ if .Param "nextprev" }}{{ partial "nextprev.html" . -}}{{ end -}}
 {{ if .Param "taglist" }}{{ partial "taglist.html" . }}{{ end -}}
+</div>
 </article>
 </main>
 {{ block "footer" . }}

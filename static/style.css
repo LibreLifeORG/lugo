@@ -29,6 +29,14 @@ footer {
 	clear: both ;
 }
 
+.textBlock {
+	background-color: #171717 ;
+  	width: auto ;
+  	border: 2px solid #EC6D00 ;
+  	padding: 50px ;
+  	margin: 20px ;
+}
+
 /* For TAGLIST.HTML */
 .taglist {
 	text-align: center ;
