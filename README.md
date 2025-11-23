@@ -1,6 +1,6 @@
 # Libre's Hugo Theme (a modification of Luke's Hugo Theme) 
 
-*A simple Hugo theme*, I forked from Luke Smith to use on my (blog-site)[https://blog.librelife.org/]
+*A simple Hugo theme*, I forked from Luke Smith to use on my [blog](https://blog.librelife.org/).
 
 ## get started
 
